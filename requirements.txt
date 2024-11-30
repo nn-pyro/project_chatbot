@@ -1,0 +1,4 @@
+together
+fastapi[standard]
+python-dotenv
+uvicorn
